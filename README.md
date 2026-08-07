@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="github-banner.png" alt="GitHub Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm M Mahimashree</h1>
-
-<h3 align="center">
-Aspiring Software Engineer | Java Full Stack | MERN Stack | Backend Development
-</h3>
-
-<p align="center">
-Passionate about building software that solves real-world problems through Java, Spring Boot, React, MERN Stack, AI, and Backend Development.
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -20,13 +6,26 @@ Passionate about building software that solves real-world problems through Java,
 
 💻 Aspiring Software Engineer with a strong interest in Backend and Full Stack Development.
 
-🌱 Currently learning Java Full Stack Development, Spring Boot, System Design, and strengthening my Data Structures & Algorithms skills.
+🌱 Currently learning Java, Spring Boot, System Design, and strengthening my Data Structures & Algorithms skills.
 
-🤖 I enjoy building AI-powered applications and scalable web solutions that solve practical problems.
+🤖 I enjoy building AI-powered applications and scalable web solutions that solve real-world problems.
 
 🚀 Explored Entrepreneurship & Innovation through the Canara Innovation Foundation, where I worked on startup ideas and learned how technology can create real-world impact.
 
 📍 Mangalore, Karnataka, India
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MMahimashree&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=MMahimashree&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahimashree&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -51,7 +50,7 @@ Today, my goal is simple:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Backend
 
@@ -64,8 +63,8 @@ Today, my goal is simple:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 ### Database
@@ -76,53 +75,56 @@ Today, my goal is simple:
 
 ### Tools
 
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚀 Mahi Orbit – HR Dashboard
-Java • Spring Boot • React • PostgreSQL • Hibernate
+**Java • Spring Boot • React • PostgreSQL • Hibernate**
 
-Employee Management System with REST APIs, department management, salary analytics, authentication, and responsive frontend.
+A full-stack HR Management System featuring employee management, REST APIs, department management, salary analytics, authentication, and a responsive React frontend.
 
 ---
 
 ### 🤖 AI Medical Chatbot
+**Python • Streamlit • Machine Learning**
 
-Python • Streamlit • Machine Learning
-
-AI-powered chatbot that predicts diseases based on symptoms and recommends doctors.
+AI-powered medical assistant that predicts diseases based on symptoms and recommends appropriate doctors.
 
 ---
 
 ### 🔒 Smart Microblog Privacy Guard
+**React • FastAPI • SQLite • NLP**
 
-React • FastAPI • SQLite • NLP
-
-Detects sensitive personal information before users publish posts using AI and NLP.
+Privacy-focused social platform that detects sensitive personal information before users publish posts using AI and Natural Language Processing.
 
 ---
 
 ### 📄 AI Resume Screener
+**Python • Machine Learning • Explainable AI**
 
-Python • Machine Learning
-
-Analyzes resumes and recommends suitable technology roles using Explainable AI.
+Analyzes resumes and recommends suitable technology roles while explaining prediction results.
 
 ---
 
 ### ✅ Task Manager API
+**Java • Spring Boot**
 
-Java • Spring Boot
-
-RESTful Task Management backend with CRUD operations and clean architecture.
+RESTful Task Management backend implementing CRUD operations with clean architecture.
 
 ---
 
@@ -138,7 +140,7 @@ RESTful Task Management backend with CRUD operations and clean architecture.
 
 🏆 SAP Hackfest Participant
 
-📚 Java Full Stack & MERN Stack Training
+📚 Completed Java Full Stack & MERN Stack Training
 
 ---
 
@@ -147,29 +149,28 @@ RESTful Task Management backend with CRUD operations and clean architecture.
 - Spring Boot Security
 - JWT Authentication
 - Microservices
-- System Design
 - Docker
 - AWS
-- Advanced DSA
+- Advanced Data Structures & Algorithms
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:
+💼 **LinkedIn**  
 https://linkedin.com/in/mmahimashree
 
-💻 GitHub:
+💻 **GitHub**  
 https://github.com/MMahimashree
 
-🧩 LeetCode:
+🧩 **LeetCode**  
 https://leetcode.com/u/MMahimashree23/
 
-📧 Email:
+📧 **Email**  
 mmahimashree@gmail.com
 
 ---
 
 <h3 align="center">
-"Every project I build is one step closer to becoming the Software Engineer I aspire to be."
+✨ Building today. Learning every day. Growing into the Software Engineer I aspire to become.
 </h3>
