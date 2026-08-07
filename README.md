@@ -173,5 +173,5 @@ mmahimashree@gmail.com
 ✨ Building today. Learning every day. Growing into the Software Engineer I aspire to become.
 </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MMahimashree&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=MMahimashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
