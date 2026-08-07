@@ -13,6 +13,9 @@ Passionate about building software that solves real-world problems using Java, S
 </p>
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MMahimashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 👩‍💻 About Me
 
@@ -172,6 +175,7 @@ mmahimashree@gmail.com
 <h3 align="center">
 ✨ Building today. Learning every day. Growing into the Software Engineer I aspire to become.
 </h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MMahimashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=MMahimashree&label=Visitors&color=22c55e&style=for-the-badge" alt="Profile Views" />
 </p>
