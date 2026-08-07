@@ -176,7 +176,6 @@ mmahimashree@gmail.com
 <h3 align="center">
 ✨ Building today. Learning every day. Growing into the Software Engineer I aspire to become.
 </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MMahimashree&label=Visitors&color=22c55e&style=for-the-badge" alt="Profile Views" />
 </p>
