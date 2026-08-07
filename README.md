@@ -1,3 +1,13 @@
+
+<h1 align="center">Hi 👋, I'm M Mahimashree</h1>
+
+<h3 align="center">
+Aspiring Software Engineer | Java Full Stack | MERN Stack | Backend Development
+</h3>
+
+<p align="center">
+Passionate about building software that solves real-world problems through Java, Spring Boot, React, MERN Stack, AI, and Backend Development.
+</p>
 ---
 
 ## 👩‍💻 About Me
