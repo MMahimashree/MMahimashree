@@ -26,11 +26,6 @@ Passionate about building software that solves real-world problems using Java, S
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MMahimashree/MMahimashree/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 # 🚀 My Journey
 
@@ -177,3 +172,6 @@ mmahimashree@gmail.com
 <h3 align="center">
 ✨ Building today. Learning every day. Growing into the Software Engineer I aspire to become.
 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MMahimashree&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
