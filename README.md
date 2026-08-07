@@ -13,9 +13,6 @@ Passionate about building software that solves real-world problems using Java, S
 </p>
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MMahimashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## 👩‍💻 About Me
 
@@ -41,6 +38,10 @@ One of my proudest moments was presenting my startup idea during the **Entrepren
 > **My goal is to become a Software Engineer who builds technology that creates real-world impact.**
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MMahimashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 # 💻 Tech Stack
 
