@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm M Mahimashree</h1>
 
-<!--
-**MMahimashree/MMahimashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Developer | Java Full Stack Developer | MERN Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building scalable web applications and solving real-world problems using Java, Spring Boot, React, MERN, and AI.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Aspiring Software Developer
+- 🌱 Currently learning **Spring Boot, System Design, and DSA**
+- 🚀 Interested in Backend Development & Full Stack Development
+- 🤖 Love building AI-powered applications
+- 🏆 Hackathon Participant & Placement Training Graduate
+- 📫 Reach me at **mmahimashree@gmail.com**
