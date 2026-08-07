@@ -26,13 +26,11 @@ Passionate about building software that solves real-world problems using Java, S
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MMahimashree&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/MMahimashree/MMahimashree/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
 
 # 🚀 My Journey
 
