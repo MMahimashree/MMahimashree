@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm M Mahimashree</h1>
-
 <h3 align="center">
-Software Developer | Java Full Stack Developer | MERN Stack Developer
+Aspiring Software Engineer | Java Full Stack Learner | MERN Stack Enthusiast
 </h3>
+
+<p align="center">
+Passionate about learning and building scalable web applications using Java, Spring Boot, React, MERN, and AI.
+</p>
 
 <p align="center">
 Passionate about building scalable web applications and solving real-world problems using Java, Spring Boot, React, MERN, and AI.
