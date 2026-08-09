@@ -82,12 +82,13 @@ That experience strengthened my confidence, communication skills, and passion fo
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,maven,docker" />
 </p>
 
-### ☁️ Deployment & Cloud
+### ☁️ Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,render,railway" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
-
 ---
 
 # 🌟 Featured Projects
