@@ -1,19 +1,17 @@
+<!-- 🌌 Profile Banner -->
+
 <p align="center">
-  <img src="github-banner.gif" width="100%" alt="M Mahimashree - GitHub Banner">
+  <img src="./github-banner.png" alt="M Mahimashree GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm M Mahimashree</h1>
 
 <p align="center">
-  <b>💻 Aspiring Software Engineer</b> •
-  <b>Java</b> •
-  <b>Spring Boot</b> •
-  <b>React</b> •
-  <b>MERN</b>
+  <b>Aspiring Software Engineer | Java • Spring Boot • React • MERN</b>
 </p>
 
 <p align="center">
-  Building software that solves real-world problems 🚀
+  Building software that solves real-world problems.
 </p>
 
 ---
@@ -30,11 +28,19 @@
 
 ---
 
-# 🚀 My Journey
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MMahimashree&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 My Journey
 
 My journey started with curiosity about software development and gradually expanded into **AI, Full Stack Development, and Entrepreneurship**.
 
-During my engineering journey, I have built AI-powered applications, REST APIs, and full-stack web projects while continuously improving my problem-solving skills.
+During my engineering journey, I have built AI-powered applications, REST APIs, and full-stack web projects while continuously improving my technical skills.
 
 One of my proudest moments was presenting my startup idea during the **Entrepreneurship Development Program Final Pitch**, where I secured **🥈 2nd Place among 49 shortlisted teams**.
 
@@ -49,59 +55,37 @@ That experience strengthened my confidence, communication skills, and passion fo
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,maven,docker" />
 </p>
 
 ### ☁️ Deployment & Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,render,netlify,railway" />
 </p>
 
 ---
@@ -167,20 +151,6 @@ RESTful Task Management backend implementing CRUD operations using clean archite
 
 ---
 
-# 🧠 Problem Solving
-
-I enjoy breaking down complex problems, understanding how systems work, and turning ideas into working solutions.
-
-Currently strengthening:
-
-- Data Structures & Algorithms
-- Java
-- Problem Solving
-- Backend Development
-- System Design
-
----
-
 # 🌱 Currently Learning
 
 - Spring Security
@@ -193,34 +163,24 @@ Currently strengthening:
 
 ---
 
-# 📈 My GitHub Journey
-
-I use GitHub to document my learning, projects, experiments, and problem-solving journey.
-
-Every project and contribution represents another step toward becoming a stronger software engineer.
-
-> **Code. Learn. Build. Repeat. 🚀**
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/mmahimashree">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MMahimashree">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/MMahimashree_23/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:mmahimashree@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -228,5 +188,11 @@ Every project and contribution represents another step toward becoming a stronge
 ---
 
 <p align="center">
-  ✨ <b>Building today. Learning every day. Growing into the Software Engineer I aspire to become.</b> ✨
+
+✨ <b>Building today. Learning every day. Growing into the Software Engineer I aspire to become.</b> ✨
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MMahimashree&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile Visitors"/>
+
 </p>
