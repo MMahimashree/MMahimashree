@@ -61,7 +61,7 @@ That experience strengthened my confidence, communication skills, and passion fo
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 </p>
 
 ### 🎨 Frontend
@@ -85,7 +85,7 @@ That experience strengthened my confidence, communication skills, and passion fo
 ### ☁️ Deployment & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,render,netlify,railway" />
+  <img src="https://skillicons.dev/icons?i=vercel,render,railway" />
 </p>
 
 ---
