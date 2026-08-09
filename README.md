@@ -89,7 +89,7 @@ That experience strengthened my confidence, communication skills, and passion fo
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
----
+
 
 # 🌟 Featured Projects
 
